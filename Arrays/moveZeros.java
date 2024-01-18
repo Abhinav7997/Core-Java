@@ -1,7 +1,7 @@
 public class moveZeros {
 
     public static void main(String[] args) {
-        
+
         int[] arr = { 1, 0, 3, 12, 0, 8, 0, 7};
         System.out.println("Original Array:");
         displayArray(arr);

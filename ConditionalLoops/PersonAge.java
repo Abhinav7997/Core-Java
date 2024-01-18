@@ -11,6 +11,7 @@ public class PersonAge {
     }
 
     public static void main(String[] args) {
-        System.out.println(getPersonAge(20));
+
+        System.out.println(getPersonAge(13));
     }
 }
